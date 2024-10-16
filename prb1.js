@@ -10,7 +10,7 @@ var mergeAlternately = function (word1, word2) {
 
 // # Soln 1:  O(N)
     
-   /*let l1 = word1.length;
+    /*let l1 = word1.length;
     let l2 = word2.length;
     let word3 = "";
     if (l1 === l2) {
@@ -37,7 +37,7 @@ var mergeAlternately = function (word1, word2) {
 
 // # Soln 2: O(M+N)
 
-   /* let l1 = word1.length;
+    /*let l1 = word1.length;
     let l2 = word2.length;
     let word = "";
     let j = 0;
